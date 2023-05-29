@@ -1,0 +1,16 @@
+.login {
+  background-image: url("/img/perpus.png");
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  padding: 70px;
+}
+
+.img{
+  max-width: 100%;
+  height: auto;
+}
+
